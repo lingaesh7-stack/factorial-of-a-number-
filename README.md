@@ -59,6 +59,7 @@ OUTPUT
 ---
 MANUAL CALCULATIONS
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c5a0d2b0-36da-4a1f-b396-04bc6a9dfd07" />
 ---
 
 RESULT
